@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
     $mysqli = new mysqli("localhost", "root", "root", "accounts");
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
