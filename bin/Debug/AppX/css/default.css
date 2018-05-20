@@ -1,0 +1,13 @@
+﻿
+body {
+  touch-action: manipulation;
+}
+div[id="header"] {
+    text-align: center;
+    padding: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: magenta;
+    font-size: 30px;
+    background-image: url("http://cdn.knowledgehi.com/1280x1024/20121021/xkcd%20wikipedia%20politics%20stick%20figures%20simplistic%201280x1024%20wallpaper_www.knowledgehi.com_30.jpg");
+    background-position: center;
+}

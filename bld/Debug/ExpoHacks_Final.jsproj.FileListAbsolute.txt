@@ -1,0 +1,17 @@
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bin\Debug\ReverseMap\resources.pri
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bin\Debug\AppxManifest.xml
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bin\Debug\ExpoHacks_Final.build.appxrecipe
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\ExpoHacks_Final.jsproj.CoreCompileInputs.cache
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\ResourceHandlingTask.state
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\priconfig.xml
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\priconfig.xml.intermediate
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\layout.resfiles
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\layout.resfiles.intermediate
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\resources.resfiles
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\resources.resfiles.intermediate
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\pri.resfiles
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\pri.resfiles.intermediate
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\qualifiers.txt
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nidarshan Siddegowda\source\repos\ExpoHacks_Final\ExpoHacks_Final\bld\Debug\ProjectArchitectures.txt
